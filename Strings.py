@@ -35,3 +35,30 @@ print(output)
 # Only availble in Python 3
 output= f'Hello format, {first_name} {last_name}'
 print(output)
+
+
+
+#######################################
+
+#Access string vaue by index
+text='ice cream'
+print(text[5])
+
+print(text[0:3])
+print(text[4:9])
+
+print(text[:3])
+print(text[4:])
+
+t1= 'Earth revolves around the sun'
+print(t1[6:14])
+print(t1[-3:])
+
+# Save multiline in string
+
+address='''add line1 
+add line2'''
+
+print(address)
+
+print(address.encode())

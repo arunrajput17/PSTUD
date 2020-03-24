@@ -8,10 +8,14 @@ print(names)
 names.sort()
 print(names)
 
+search = 'Susan'in names  ## Search the value is availble in the list or not, it will return True/False
+print(search)
 
 scores = []
 scores.append(98)  #Add new item to the end
 scores.append(99)
+
+## scores.remove(99)  # this is used to remove item from list
 scores.append('hi')
 print(scores)
 print(scores[1])  # Collections are zero-indexed
