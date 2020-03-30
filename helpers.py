@@ -7,3 +7,4 @@ def display(message, is_warning = False):
         print(Fore.RED + message)
     else:
         print(Fore.BLUE + message)
+
