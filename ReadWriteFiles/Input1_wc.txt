@@ -1,0 +1,5 @@
+Sum is 14 of 6,8
+Sum is 13 of 7,6
+Sum is 10 of 2,8
+Sum is 14 of 9,5
+Sum is 15 of 9,6
