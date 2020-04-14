@@ -1,3 +1,4 @@
 colorama
 numpy
 python-dotenv
+pytest
