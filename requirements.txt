@@ -2,3 +2,4 @@ colorama
 numpy
 python-dotenv
 pytest
+pandas
